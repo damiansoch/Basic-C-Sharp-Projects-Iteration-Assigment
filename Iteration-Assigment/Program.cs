@@ -106,7 +106,7 @@ namespace Iteration_Assigment
             //-----------------------------------------------
             //Part 6
 
-            //There is a couple of ways to to it bot i will i will use th Contrains() method
+            //There is a couple of ways to do it but i will use th Contains() method
            
 
             List<string> footballClubs = new List<string> { "Real Madrid", "Barcelona", "Manchester United", "Juventus", "Cheslea", "Paris-Saint-German", "Barcelona", "Cheslea", "Bayern Munich", "Barcelona" };
