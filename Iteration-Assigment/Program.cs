@@ -106,9 +106,8 @@ namespace Iteration_Assigment
             //-----------------------------------------------
             //Part 6
 
-            //There is a couple of ways to to it bot i will
-            // create new list, if club already in the new list the message "Club already on the list" will be shown
-            //if club is not in the new list, it will be added to it
+            //There is a couple of ways to to it bot i will i will use th Contrains() method
+           
 
             List<string> footballClubs = new List<string> { "Real Madrid", "Barcelona", "Manchester United", "Juventus", "Cheslea", "Paris-Saint-German", "Barcelona", "Cheslea", "Bayern Munich", "Barcelona" };
             List<string> newFootballClubs = new List<string> { };
